@@ -2,7 +2,7 @@
 
 Version 1.0, June 2024
 
-Copyright [year] [fullname]
+Copyright 2024 chmoe
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
